@@ -12,7 +12,7 @@ This is a simple movie recommendation system built using Streamlit. It recommend
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/movierecommendation.git
+   https://github.com/Tawhid-Mahmud/Movie-recommendation-system.git
    cd movierecommendation
    ```app.py
 
